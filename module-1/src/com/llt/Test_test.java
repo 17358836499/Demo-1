@@ -5,5 +5,8 @@ public class Test_test {
         System.out.println("test branch");
 
         System.out.println("hello 这是master分支修改的");
+
+        System.out.println("hello 这是test分支修改的");
+
     }
 }
